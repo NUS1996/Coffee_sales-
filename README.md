@@ -29,3 +29,11 @@ List the main features or functionalities of your project:
 - ☕ **Peak Sales Hours:** Most sales occur between 8-10 AM.  
 - 📈 **Best-Selling Products:** Barista Espresso were sold the most. 
 - 📉 **Best Selling Days:** Orders were higher on Mondays, Thursdays and Fridays.  
+
+
+📬 Contact
+If you have any questions or feedback, feel free to reach out:
+
+Email: dubeynusan07@gmail.com
+LinkedIn: Your LinkedIn
+GitHub: Your GitHub
