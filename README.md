@@ -1,9 +1,6 @@
 # 📊 Coffee Shop Sales Analysis 
 
-## 🚀 Project Overview
-Briefly describe what the project is about. Highlight the purpose, key features, and the problem it solves.
-
-Example:  
+## 🚀 Project Overview 
 _The primary objective of this project is to analyze coffee shop sales data to uncover actionable insights that drive improved performance and growth for the Coffee Shop._
 
 ---
@@ -19,7 +16,7 @@ List the main features or functionalities of your project:
 ---
 
 ## 📊 Data Description
-- **Sales Data:** Transaction-level data with date, product, price, and quantity.   
+- **Maven Roasters Sales Data:** Transaction-level data with date, product, price, and quantity as well as store location.   
 ---
 
 ## 🔧 Technologies Used
@@ -27,9 +24,6 @@ List the main features or functionalities of your project:
 - **Version Control:** Git/GitHub  
 
 ---
-
-## 📂 Project Structure 
-
 
 ## 📊 Key Insights
 - ☕ **Peak Sales Hours:** Most sales occur between 8-10 AM.  
