@@ -35,5 +35,5 @@ List the main features or functionalities of your project:
 If you have any questions or feedback, feel free to reach out:
 
 Email: dubeynusan07@gmail.com
-LinkedIn: [Nusan's Linkedin](www.linkedin.com/in/nusandubey)
+LinkedIn: www.linkedin.com/in/nusandubey
 GitHub: [Nusan's GitHub](https://github.com/NUS1996)
