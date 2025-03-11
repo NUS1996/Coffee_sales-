@@ -15,10 +15,14 @@ List the main features or functionalities of your project:
 
 ---
 
+## 📊 Data Source
+
+The data used in this project is sourced from [Coffee Sales Data](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&search=Coffee). You can access the dataset directly from this link.
+
+
 ## 📊 Data Description
 - **Maven Roasters Sales Data:** Transaction-level data with date, product, price, and quantity as well as store location.
-- 
-The data used in this project is sourced from [Coffee Sales Data](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&search=Coffee). You can access the dataset directly from this link.
+ 
 ---
 
 ## 🔧 Technologies Used
