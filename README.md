@@ -3,6 +3,8 @@
 ## 🚀 Project Overview 
 _The primary objective of this project is to analyze coffee shop sales data to uncover actionable insights that drive improved performance and growth for the Coffee Shop._
 
+![Dashboard Preview]( https://github.com/NUS1996/Coffee_sales-/blob/main/Dashboard_screenshot%20.png)  
+
 ---
 
 ## 📈 Features
